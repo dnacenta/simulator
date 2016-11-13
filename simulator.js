@@ -13,6 +13,8 @@ var Ragnar = new Viking('Ragnar', 100, 10)
 var Rollo = new Viking('Rollo', 130, 8)
 
 //-------------------------------------------------------
+
+
 //Pit Fight
 
 var Pit = function(viking1, viking2){
